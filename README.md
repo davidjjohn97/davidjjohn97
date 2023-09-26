@@ -7,7 +7,7 @@
 
 - 🌱 Constantly learning to **Clean Code**
 
-- 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analyticst**
+- 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analytics**
 
 - 👨‍💻 Few of my academic projects related to Data Analytics are available at [https://github.com/davidjjohn97](https://github.com/davidjjohn97)
 
