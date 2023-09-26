@@ -9,15 +9,13 @@
 
 - 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analyticst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrJithil](https://github.com/MrJithil)
+- 👨‍💻 Few of my academic projects related to Data Analytics are available at [https://github.com/davidjjohn97](https://github.com/davidjjohn97)
 
-- 💬 Ask me about **Node.js, Angular, JavaScript and TypeScript**
+- 📫 How to reach me **davidjjohn97@gmail.com**
 
-- 📫 How to reach me **https://in.linkedin.com/in/jithil**
+- 📄 Know about my experiences on my Portfolio Site [https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/](https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/)
 
-- 📄 Know about my experiences [https://in.linkedin.com/in/jithil](https://in.linkedin.com/in/jithil)
-
-<img src="https://images.credly.com/size/340x340/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" alt="Jithil P Ponnan"></img>
+<img src="https://www.credly.com/badges/ec5762ff-1a2f-4501-956d-a142a57fcab7/public_url" alt="DavidJJ"></img>
 
 
 <h3 align="left">Languages and Tools:</h3>
