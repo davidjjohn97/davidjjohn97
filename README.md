@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences on my Portfolio Site [https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/](https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/)
 
-<img src="https://www.credly.com/badges/ec5762ff-1a2f-4501-956d-a142a57fcab7/public_url" alt="DavidJJ"></img>
 
 
 <h3 align="left">Languages and Tools:</h3>
