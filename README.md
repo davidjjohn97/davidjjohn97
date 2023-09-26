@@ -9,7 +9,22 @@
 
 - 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analytics**
 
-- 👨‍💻 Few of my academic projects related to Data Analytics are available at [https://github.com/davidjjohn97](https://github.com/davidjjohn97)
+- 👨‍💻 The following projects were developed during my academic coursework and learning endeavours and are listed at [https://github.com/davidjjohn97](https://github.com/davidjjohn97):
+
+   UnderConstruction:
+         - E-commerce App using React Native
+
+   Completed: 
+         - Portfolio Project (Responsive Website to flex)
+         - AWS Terraform (Learning IAAC on AWS)
+         - Webscraper (Python based script to crawl websites and gather infor by-passing server securities)
+         - Analysis of Cryptocurrencies (Data Analytics projects on data gathered from Coinbase API)
+         - R : Data Analysis using R Programming (Data Mining, Imputation and Analysis)
+         - Python: Correlation Analysis of Netflix movies using Python 
+         - Tableau Dashboards  (Dashboards created as part of coursework for Masters in Data Analytics)
+         - Rshiny Dashboards  (Dashboards created as part of coursework for Masters in Data Analytics)
+         - Deepfake (Video and Audio Cloning) : What if I received a recommendation from Elon Musk, Donal Trump and Sundar Pichai 
+         
 
 - 📫 How to reach me **davidjjohn97@gmail.com**
 
