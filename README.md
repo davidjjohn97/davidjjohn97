@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Joseph Johnson</h1>
 <h3 align="center">Fullstack Developer and Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjjohn97&label=Profile%20views&color=0e75b6&style=flat" alt="davidjjohn97" /> </p>
-
-## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidjjohn97" alt="davidjjohn97" /></a> </p>
-
 <p align="left"> <a href="https://www.linkedin.com/in/davidjjohn97/" target="blank">Connect With Me on LinkedIn</a> </p>
 
 - 🔭 I’m currently working as **Aritificial Intelligence Engineer Intern at Radical X**
