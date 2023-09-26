@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Aritificial Intelligence Engineer Intern at Radical X**
 
-- 🌱 Constantly learning to **Clean Code**
+- 🌱 Constantly learning to develop **Clean Code**
 
 - 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analytics**
 
