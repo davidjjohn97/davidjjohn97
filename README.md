@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/davidjjohn97/" target="blank">Connect With Me on LinkedIn</a> </p>
 
-- 🔭 I’m currently working as **Aritificial Intelligence Engineer Intern at Radical X**
+- 🔭 I’m currently working as **Software Engineer at Broad Institute of MIT and Harvard**
 
 - 🌱 Constantly learning to develop **Clean Code**
 
-- 👯 I’m looking for Fullstack opportunities in **Software Development and/or Data Analytics**
+- 👯 Enthusiastic about **Software Development and/or Data Analytics**
 
 - 👨‍💻 The following projects were developed during my academic coursework and learning endeavours and are listed at [https://github.com/davidjjohn97](https://github.com/davidjjohn97):
    - InProgress:
