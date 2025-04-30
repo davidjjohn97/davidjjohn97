@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/davidjjohn97/" target="blank">Connect With Me on LinkedIn</a> </p>
 
-- 🔭 I’m currently working as **Software Engineer at Broad Institute of MIT and Harvard**
-
 - 🌱 Constantly learning to develop **Clean Code**
 
 - 👯 Enthusiastic about **Software Development and/or Data Analytics**
@@ -25,10 +23,6 @@
    - OpenSource Contributions:
       - simple-icons
          
-
-- 📫 How to reach me **davidjjohn97@gmail.com**
-
-- 📄 Know about my experiences on my Portfolio Site [https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/](https://djj-portfolio-app-1d83662f0cd0.herokuapp.com/)
 
 
 
