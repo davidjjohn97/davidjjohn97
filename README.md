@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Joseph Johnson</h1>
+<h1 align="center">Hi 👋, I'm David Johnson</h1>
 <h3 align="center">Fullstack Developer and Data Analyst</h3>
 
 <p align="left"> <a href="https://www.linkedin.com/in/davidjjohn97/" target="blank">Connect With Me on LinkedIn</a> </p>
